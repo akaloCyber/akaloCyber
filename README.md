@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hello, I'm Akalo (akaloCyber)
+<a href="https://www.linkedin.com/in/akaloazga">
+<img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-<!--
-**akaloCyber/akaloCyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛡️ About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a cybersecurity student with hands-on experience in Blue Team operations, focusing on SIEM analysis, threat detection, and incident response.
+
+I enjoy working with real-world datasets, analyzing logs, and identifying malicious activity patterns.
+
+---
+
+## 🎯 Objective
+
+My goal is to start my career as a SOC Analyst (Tier 1), where I can apply my skills in log analysis, threat hunting, and security monitoring to help detect and respond to cyber threats.
+
+---
+
+## 🧠 Skills
+
+| Skill | Associated Project |
+|------|------------------|
+| SIEM Log Analysis (Splunk SPL) | <a href="https://github.com/akaloCyber/splunk-spl-basics">Splunk SPL Labs</a> |
+| Network Traffic Analysis | <a href="https://github.com/akaloCyber/splunk-spl-basics">Web Traffic Investigation</a> |
+| Threat Hunting | <a href="https://github.com/akaloCyber/splunk-spl-basics">Threat Hunting Exercises</a> |
+| Incident Investigation | <a href="https://github.com/akaloCyber/splunk-spl-basics">SOC Analysis Project</a> |
+| Log Correlation | <a href="https://github.com/akaloCyber/splunk-spl-basics">Detection Lab</a> |
+
+---
