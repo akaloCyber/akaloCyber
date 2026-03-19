@@ -56,3 +56,11 @@ My goal is to start my career as a SOC Analyst (Tier 1), where I can apply my sk
 </div>
 
 ---
+
+## 📜 Certifications (In Progress)
+
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</div>
+
+---
