@@ -66,3 +66,22 @@ My goal is to start my career as a SOC Analyst (Tier 1), where I can apply my sk
 
 - 🎓 Completing LESTDEFENS SOC Analyst Course (Hands-on training in SIEM, Threat Detection & Incident Response)
 ---
+
+---
+
+## 🔍 Projects
+
+### 📊 Splunk SPL Labs
+- Built detection queries using botsv3 dataset  
+- Identified suspicious HTTP traffic patterns  
+- Analyzed 404 error spikes and scanning behavior  
+
+### 🕵️ SOC Investigation Project
+- Investigated malicious IP activity  
+- Performed log correlation  
+- Mapped findings to MITRE ATT&CK  
+
+---
+
+## ⚡ Fun Fact
+I believe that strong defense starts with understanding attacker behavior 🧠⚔️
