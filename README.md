@@ -24,9 +24,35 @@ My goal is to start my career as a SOC Analyst (Tier 1), where I can apply my sk
 | Skill | Associated Project |
 |------|------------------|
 | SIEM Log Analysis (Splunk SPL) | <a href="https://github.com/akaloCyber/splunk-spl-basics">Splunk SPL Labs</a> |
-| Network Traffic Analysis | <a href="https://github.com/akaloCyber/splunk-spl-basics">Web Traffic Investigation</a> |
-| Threat Hunting | <a href="https://github.com/akaloCyber/splunk-spl-basics">Threat Hunting Exercises</a> |
-| Incident Investigation | <a href="https://github.com/akaloCyber/splunk-spl-basics">SOC Analysis Project</a> |
-| Log Correlation | <a href="https://github.com/akaloCyber/splunk-spl-basics">Detection Lab</a> |
+| Network Traffic Analysis | 
+
+---
+
+## 🧰 Tools
+
+### 🌐 Network
+<div>
+<img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</div>
+
+### 🖥️ Systems
+<div>
+<img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
+<img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
+</div>
+
+### 📊 SIEM
+<div>
+<img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+<img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+### ⚔️ Security Tools
+<div>
+<img src="https://img.shields.io/badge/-Nmap-214478?&style=for-the-badge" />
+<img src="https://img.shields.io/badge/-Burp_Suite-FF6633?&style=for-the-badge" />
+<img src="https://img.shields.io/badge/-Metasploit-2596CD?&style=for-the-badge" />
+</div>
 
 ---
