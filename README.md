@@ -33,7 +33,6 @@ My goal is to start my career as a SOC Analyst (Tier 1), where I can apply my sk
 ### 🌐 Network
 <div>
 <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
 ### 🖥️ Systems
